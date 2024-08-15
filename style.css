@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    text-decoration: none;
+    display: flex;
+    padding-left: 620px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color: rgb(236, 236, 228);
+    height: 80px;
+}
+
+.parent{
+    background-color: lightcyan;
+    height: 490px;
+}
